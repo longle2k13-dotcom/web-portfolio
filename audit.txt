@@ -1,0 +1,16 @@
+---- Usability Check ----
+
+1.Is my navigation menu clear and easy to find on every page?
+Yes. My navigation menu is easy to find because it is located at the top of every page.
+
+2.Is there a clear visual hierarchy?
+Yes. The <h1> headings on the Home, Projects, and Contact pages are bold and large enough to clearly show the main content of each page.
+
+Is the text easy to read?
+Yes. The text is easy to read because the text color has good contrast with the background, and the font is Times New Roman, which is a common and readable font.
+
+---- Accessibility Check ----
+
+I checked all images on the Home and Projects pages, and every image has a descriptive alt attribute.
+
+I checked the Contact page, and every label is correctly associated with its input or textarea using matching for and id attributes.
